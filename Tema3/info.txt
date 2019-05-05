@@ -1,0 +1,6 @@
+- layers in plus (in plus fata de input si output)
+- obtinem un z pentru fiecare neuron (input) -> z trece printr-o functie de activare
+- noile activari devin noi inputuri pentru urm layer
+- urmam pasii precendenti cu mai multe layere
+- backpropagation
+
